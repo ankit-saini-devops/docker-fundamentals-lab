@@ -13,11 +13,7 @@ COPY . .
 RUN npm run build
 
 # STAGE 2: Production
-# Using nginx:alpine for a tiny final image (~20MB)
 FROM nginx:alpine AS prod
-
-# Copy custom nginx configuration if needed
-# COPY nginx.conf /etc/nginx/conf.d/default.conf
 
 # Copy the static build files from the previous stage
 COPY --from=build-stage /app/dist /usr/share/nginx/html
