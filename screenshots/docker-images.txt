@@ -1,0 +1,7 @@
+IMAGE            ID             DISK USAGE   CONTENT SIZE   EXTRA
+alpine:latest    3cb067eab609       8.45MB             0B        
+busybox:latest   925ff61909ae       4.42MB             0B        
+mysql:5.6        dd3b2a5dcb48        303MB             0B        
+nginx:latest     6c3a6ea6608c        161MB             0B        
+redis:latest     7673a976238b        140MB             0B        
+ubuntu:latest    0b1ebe5dd426       78.1MB             0B        

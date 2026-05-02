@@ -1,0 +1,6 @@
+NETWORK ID     NAME       DRIVER    SCOPE
+f0dc66aaa3a3   backend    bridge    local
+14f510fb2076   bridge     bridge    local
+12ae970cba90   frontend   bridge    local
+a5179408446e   host       host      local
+a42fc7b26ce2   none       null      local

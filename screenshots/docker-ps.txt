@@ -1,0 +1,4 @@
+CONTAINER ID   IMAGE       COMMAND                  CREATED              STATUS                      PORTS      NAMES
+5ed9051a84fb   mysql:5.6   "docker-entrypoint.s…"   About a minute ago   Up About a minute           3306/tcp   db
+097761d29f6c   nginx       "/docker-entrypoint.…"   9 minutes ago        Up 48 seconds               80/tcp     web1
+abef9f67e795   alpine      "/bin/sh"                11 minutes ago       Exited (0) 10 minutes ago              con1

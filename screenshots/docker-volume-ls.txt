@@ -1,0 +1,6 @@
+DRIVER    VOLUME NAME
+local     10ef63140e07c89512f31e4a3bb15271819126b645122737e2321c5bcca8784f
+local     292e6398b4fc93409a679f65fd5579a65345a303f5dc19f10f5e4798fa5410fe
+local     bd7dd85c12fc4ce4f1808fc451effe11124744dd5bfed749863e6643d1efc9e5
+local     db
+local     oracle
